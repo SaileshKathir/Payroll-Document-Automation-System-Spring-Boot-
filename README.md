@@ -1,4 +1,4 @@
-# Payroll Document Automation System (Spring Boot & Postgres)
+# Payroll Document Automation System (Spring Boot & PostgreSQL)
 
 ## 📌 Overview
 
